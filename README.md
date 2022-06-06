@@ -15,9 +15,9 @@
 
 [<img align="left" src="https://badge42.vercel.app/api/v2/cl3kqxp4p001109mmgul4jrzv/stats?cursusId=21&coalitionId=177" />](https://github.com/JaeSeoKim/badge42)
 
-<tt>42 Adelaide student and Junior Software Engineer</tt><br>
-<tt>- Studies commenced 21 February 2022</tt><br><br>
-
+<tt><b>42 Adelaide student and Junior Software Engineer</b></tt><br>
+<tt>- Studies commenced 21 February 2022</tt><br>
+<tt><b>Currently:</b> Working on get_next_line, creating wikis for my 42 projects, creating a site using GitHub Pages, and studying Cert IV of Information Technology.</tt><br><br>
 <tt>If you have any questions, feel free to contact me ☕</tt><br>
 <tt>코드가 대해 문의하고 싶으면 연락해주세요.</tt>
 
