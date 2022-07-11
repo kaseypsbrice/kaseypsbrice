@@ -17,7 +17,7 @@
 
 <tt><b>42 Adelaide student and Junior Software Engineer</b></tt><br>
 <tt>- Studies commenced 21 February 2022</tt><br><br>
-<tt>Github Pages website in progress https://kaseypsbrice.github.io/</tt>
+<tt>Github Pages website in progress <a target="_blank">https://kaseypsbrice.github.io/</a></tt>
 
 <br clear="left"/>
 
