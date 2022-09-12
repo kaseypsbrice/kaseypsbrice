@@ -15,7 +15,7 @@
 
 [<img align="left" src="https://badge42.vercel.app/api/v2/cl3kqxp4p001109mmgul4jrzv/stats?cursusId=21&coalitionId=177" />](https://github.com/JaeSeoKim/badge42) 
 
-<tt><b>42 Adelaide student and Junior Software Engineer</b></tt><br>
+<tt><b>42 Adelaide student and Software Engineer</b></tt><br>
 <tt>- Studies commenced 21 February 2022</tt><br><br>
 <tt>Github Pages website in progress https://kaseypsbrice.github.io/</tt>
 
