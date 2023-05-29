@@ -17,7 +17,7 @@
 
 <tt><b>42 Adelaide student and Software Engineer</b></tt><br>
 <tt>- Studies commenced 21 February 2022</tt><br><br>
-<tt>Currently working on: [Minitalk](https://github.com/kaseypsbrice/42-Cursus/tree/main/minitalk)</tt>
+<tt>Currently working on: [Minishell](https://github.com/kaseypsbrice/42-Cursus/tree/main/minishell)</tt>
 
 <br clear="left"/>
 
