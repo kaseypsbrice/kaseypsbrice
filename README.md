@@ -17,7 +17,7 @@
 
 <tt><b>42 Adelaide student and Software Engineer</b></tt><br>
 <tt>- Studies commenced 21 February 2022</tt><br><br>
-<tt>Currently working on: [cub3d](https://github.com/kaseypsbrice/cub3d)</tt>
+<tt>Currently working on: NetPractice</tt>
 
 <br clear="left"/>
 
