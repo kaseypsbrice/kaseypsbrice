@@ -11,9 +11,6 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 
-<h3><b>42 Adelaide student and Software Engineer</b><br>
-<tt>- Studies commenced 21 February 2022</tt></h3>
-
 </div>
 
 <hr>
