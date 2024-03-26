@@ -15,7 +15,7 @@
   ### 📘 42 Adelaide Projects
 
   * <a href="https://github.com/kaseypsbrice/ft_transcendence">Ft_transcendence</a>
-    * A full-stack single page application made with HTML,<br> CSS, Ruby, and Vanilla JavaScript.
+    * A full-stack single page application made with <br>HTML, CSS, Ruby, and Vanilla JavaScript.
   * <a href="https://github.com/kaseypsbrice/Inception">Inception</a>
     * Set up docker containers for MariaDB, Nginx, and <br>Wordpress.
   * <a href="https://github.com/kaseypsbrice/Minishell">Minishell</a>
