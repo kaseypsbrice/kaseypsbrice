@@ -7,7 +7,7 @@
   Hi, I'm Kasey. Software developer and 42 Adelaide graduate.
 
  * Currently working on: <i>Creating a portfolio website</i>
- * Cyber security cadet @DataAction until 2 August 2024
+ * Cyber security cadet at DataAction
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaseybrice/)
   [![Itchio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://k-42.itch.io/)
