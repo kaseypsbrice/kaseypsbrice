@@ -6,12 +6,11 @@
 
   Hi, I'm Kasey. Software developer and 42 Adelaide graduate.
 
- * Currently working on: <i>Creating a portfolio website</i>
+ * Currently: ...
  * Cyber security cadet at DataAction
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaseybrice/)
   [![Itchio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://k-42.itch.io/)
-  <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kaseypsbrice/) -->
 
   ### 📘 42 Adelaide Projects
 
