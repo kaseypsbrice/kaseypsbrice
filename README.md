@@ -7,7 +7,7 @@
   Hi, I'm Kasey. Software developer and 42 Adelaide graduate.
 
  * Currently: ...
- * Graduate Graduate Cyber Security Analyst at DataAction
+ * Graduate Graduate Cyber Security Analyst at Data Action
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaseybrice/)
   [![Itchio](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://k-42.itch.io/)
