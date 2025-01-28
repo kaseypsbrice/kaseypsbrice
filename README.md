@@ -6,7 +6,7 @@
 
   Hi, I'm Kasey. Software developer and 42 Adelaide graduate.
 
- * Currently: Setting New Years resolutions
+ * Currently: Dabbling in Go (Golang)
  * Graduate Cyber Security Analyst at Data Action
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaseybrice/)
